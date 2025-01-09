@@ -1,0 +1,2 @@
+# StudySync
+Frontend mini Project
